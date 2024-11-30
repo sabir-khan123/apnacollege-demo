@@ -1,3 +1,3 @@
 # apnacollege-demo
 This not my first git repository</br>
-Author-Sabir uddin khan
+Author-Sabir uddin(nit trichy)
